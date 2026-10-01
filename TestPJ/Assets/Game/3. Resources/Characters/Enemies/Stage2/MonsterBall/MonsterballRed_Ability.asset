@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c38c7a05dee0f7647b408397c1dd7b1c, type: 3}
+  m_Name: MonsterballRed_Ability
+  m_EditorClassIdentifier: Assembly-CSharp::Yeolha.BeltScroll.CharacterAbility
+  displayName: Monsterball
+  maxHP: 100
+  defense: 5
+  lifeCount: 1
+  attackPower: 10
+  criticalRate: 0
+  maxFP: 100
+  maxTouhon: 0
+  moveSpeed: 3
+  runMultiplier: 2
+  jumpHeight: 1.6
+  maxJumpCount: 1
+  dashSpeed: 18
+  hitDuration: 0.4
+  landDuration: 0.12
+  globalAnimatorSpeed: 0.7
+  walkAnimationSpeed: 2
+  guardChance: 0
+  parryChance: 0
+  forceGuardHitCount: 0
+  forceGuardDuration: 1
+  forceGuardComboWindow: 2

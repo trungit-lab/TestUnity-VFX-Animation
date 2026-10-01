@@ -1,0 +1,11 @@
+Quái vật này có tên là "Monsterball".
+Vui lòng triển khai nó sao cho sát với các tài nguyên và video được cung cấp nhất có thể.
+Quái vật ẩn nấp sâu dưới lòng đất; nó sẽ lao vọt lên mặt đất khi nhân vật tiến lại gần.
+Cơ thể quái vật đang bốc cháy.
+Sau khi trồi lên khỏi mặt đất, quái vật sẽ lăn về phía nhân vật để tấn công.
+
+
+
+Đối với phần VFX, vui lòng tham khảo 'VFX Assets_Monster ball'; còn đối với phần mô hình, vui lòng tham khảo 'Monsterball'.
+
+'Monsterball' bao gồm ba mô hình khác nhau; vui lòng chỉ sử dụng mô hình duy nhất được hiển thị trong video.

@@ -1,0 +1,42 @@
+# Unity generated folders
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Mm]emoryCaptures/
+**/Recordings/
+
+# Visual Studio / Rider / VS Code cache & solutions
+.vs/
+.idea/
+.vscode/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Local backups and temporary artifacts
+*.bak
+*.slnx
+Artifacts/
+**/Artifacts/
+push_*.bat
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
